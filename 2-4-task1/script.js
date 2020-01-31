@@ -1,5 +1,5 @@
-'use strict';
+"use strict";
 let admin;
-let name = 'John';
+let name = "John";
 admin = name;
 alert(admin);
